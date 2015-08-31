@@ -19,9 +19,15 @@
 
 			<!-- nsq client java -->
 			<dependency>
-				<groupId>com.github.brainlag</groupId>
-				<artifactId>nsq-client</artifactId>
-				<version>1.0.0.BETA</version>
+				<groupId>ly.bit</groupId>
+				<artifactId>nsq</artifactId>
+				<version>0.0.1-SNAPSHOT</version>
+			</dependency>
+
+			<dependency>
+				<groupId>com.trendrr.oss</groupId>
+				<artifactId>trendrr-oss</artifactId>
+				<version>1.0</version>
 			</dependency>
 
 			<!-- http client -->
